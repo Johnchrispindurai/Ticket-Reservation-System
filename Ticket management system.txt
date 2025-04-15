@@ -1,0 +1,3 @@
+Ticket fare
+Child   30Rs
+adult   60Rs
